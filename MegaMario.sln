@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MegaMario", "MegaMario.vcxproj", "{C00683B7-1D62-4387-AED9-AD99ED399F9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C00683B7-1D62-4387-AED9-AD99ED399F9B}.Debug|x64.ActiveCfg = Debug|x64
+		{C00683B7-1D62-4387-AED9-AD99ED399F9B}.Debug|x64.Build.0 = Debug|x64
+		{C00683B7-1D62-4387-AED9-AD99ED399F9B}.Debug|x86.ActiveCfg = Debug|Win32
+		{C00683B7-1D62-4387-AED9-AD99ED399F9B}.Debug|x86.Build.0 = Debug|Win32
+		{C00683B7-1D62-4387-AED9-AD99ED399F9B}.Release|x64.ActiveCfg = Release|x64
+		{C00683B7-1D62-4387-AED9-AD99ED399F9B}.Release|x64.Build.0 = Release|x64
+		{C00683B7-1D62-4387-AED9-AD99ED399F9B}.Release|x86.ActiveCfg = Release|Win32
+		{C00683B7-1D62-4387-AED9-AD99ED399F9B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00679912-E6AE-44F0-BBBC-0E65706C2E88}
+	EndGlobalSection
+EndGlobal
