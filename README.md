@@ -1,4 +1,4 @@
-# NotMaario
+# NotMario
 
 Menu:
 ![image](https://github.com/AkshaySodhi/NotMario/assets/95957791/42ad9750-500b-48df-abfa-74778c33565a)
